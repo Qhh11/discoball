@@ -1,0 +1,26 @@
+
+# Local Unity state and private configuration
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+.idea/
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.log
+*.apk
+*.aab
+*.pdb
+.DS_Store
+.env
+.env.*
+*.keystore
+*.jks
+mono_crash.*
